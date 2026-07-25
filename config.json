@@ -1,0 +1,26 @@
+{
+    "audio": {
+        "seconds": 5,
+        "device": "1 - BenQ EX2710 (AMD High Definition Audio Device) [Loopback]"
+    },
+    "subtitle": {
+        "x": 763,
+        "y": 907,
+        "width": 857,
+        "height": 117,
+        "font_ratio": 8,
+        "font_size_min": 12,
+        "text_color": "YELLOW",
+        "background": "rgba(0,0,0,160)",
+        "radius": 10,
+        "padding": 10
+    },
+    "whisper": {
+        "model": "small.en",
+        "language": "en"
+    },
+    "translator": {
+        "model": "facebook/nllb-200-distilled-1.3B",
+        "target": "zho_Hant"
+    }
+}

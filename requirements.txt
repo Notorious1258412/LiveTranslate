@@ -1,0 +1,9 @@
+faster-whisper>=1.2.0
+ctranslate2>=4.6.0
+PyAudioWPatch>=0.2.12
+numpy
+soundfile
+PySide6
+pyqtgraph
+pyyaml
+requests
